@@ -13,7 +13,7 @@ from pydantic import BaseModel, Field
 from langchain_core.language_models import BaseLanguageModel
 
 # === GROQ API CONFIG ===
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama3-70b-8192"
 
