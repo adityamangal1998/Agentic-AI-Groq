@@ -1,0 +1,9 @@
+2025-05-16 02:29:43,255 - agent_logger - INFO - [32m🤖 Starting AI Agent System[0m
+2025-05-16 02:29:43,256 - agent_logger.builder - INFO - Initializing agent with callback handler
+2025-05-16 02:29:43,260 - agent_logger.builder - DEBUG - Agent initialized successfully
+2025-05-16 02:29:43,260 - agent_logger - INFO - [36m🤖 Welcome to the LangChain + GROQ Agent![0m
+2025-05-16 02:29:43,261 - agent_logger - INFO - Type 'exit' to quit.
+
+2025-05-16 02:29:44,147 - agent_logger - INFO - [34mNew Query: what is the time of jaipur[0m
+2025-05-16 02:29:44,559 - agent_logger - INFO - [36mAgent: 08:45:20 AM
+[0m

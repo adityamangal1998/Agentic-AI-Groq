@@ -1,0 +1,13 @@
+2025-05-16 01:51:15,619 - agent_logger - INFO - [32m🤖 Starting AI Agent System[0m
+2025-05-16 01:51:15,620 - agent_logger.builder - INFO - Initializing agent with callback handler
+2025-05-16 01:51:15,623 - agent_logger.builder - DEBUG - Agent initialized successfully
+2025-05-16 01:51:15,623 - agent_logger - INFO - [36m🤖 Welcome to the LangChain + GROQ Agent![0m
+2025-05-16 01:51:15,624 - agent_logger - INFO - Type 'exit' to quit.
+
+2025-05-16 01:51:17,604 - agent_logger - INFO - [34mNew Query: 2+2[0m
+2025-05-16 01:51:17,606 - agent_logger.tools - INFO - [34mChain Started: Unknown[0m
+2025-05-16 01:51:17,606 - agent_logger.tools - DEBUG - Chain inputs: {'input': '2+2'}
+2025-05-16 01:51:18,122 - agent_logger.tools - INFO - [32mChain Completed[0m
+
+2025-05-16 01:51:18,123 - agent_logger - INFO - [36mAgent: The answer to the question 2+2 is 4.
+[0m

@@ -1,0 +1,13 @@
+2025-05-16 02:03:50,734 - agent_logger - INFO - [32m🤖 Starting AI Agent System[0m
+2025-05-16 02:03:50,735 - agent_logger.builder - INFO - Initializing agent with callback handler
+2025-05-16 02:03:50,738 - agent_logger.builder - DEBUG - Agent initialized successfully
+2025-05-16 02:03:50,739 - agent_logger - INFO - [36m🤖 Welcome to the LangChain + GROQ Agent![0m
+2025-05-16 02:03:50,739 - agent_logger - INFO - Type 'exit' to quit.
+
+2025-05-16 02:03:51,864 - agent_logger - INFO - [34mNew Query: what is the time of jaipur[0m
+2025-05-16 02:03:51,865 - agent_logger.tools - INFO - [34mChain Started: Unknown[0m
+2025-05-16 02:03:51,866 - agent_logger.tools - DEBUG - Chain inputs: {'input': 'what is the time of jaipur'}
+2025-05-16 02:03:52,355 - agent_logger.tools - INFO - [32mChain Completed[0m
+
+2025-05-16 02:03:52,355 - agent_logger - INFO - [36mAgent: 12:45:00 PM
+[0m

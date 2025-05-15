@@ -1,0 +1,9 @@
+2025-05-16 02:36:35,629 - agent_logger - INFO - [32m🤖 Starting AI Agent System[0m
+2025-05-16 02:36:35,630 - agent_logger.builder - INFO - Initializing agent with callback handler
+2025-05-16 02:36:35,633 - agent_logger.builder - DEBUG - Agent initialized successfully
+2025-05-16 02:36:35,633 - agent_logger - INFO - [36m🤖 Welcome to the LangChain + GROQ Agent![0m
+2025-05-16 02:36:35,634 - agent_logger - INFO - Type 'exit' to quit.
+
+2025-05-16 02:36:36,806 - agent_logger - INFO - [34mNew Query: what is the time of jaipur[0m
+2025-05-16 02:36:37,266 - agent_logger - INFO - [36mAgent: [SUCCESS] Current time in Jaipur: 02:45:00 PM IST
+[0m
